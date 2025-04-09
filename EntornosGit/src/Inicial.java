@@ -5,5 +5,6 @@ public class Inicial {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello world ver.1.2");
+		System.out.println("En otra rama");
 	}
 }
