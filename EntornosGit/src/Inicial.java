@@ -6,6 +6,6 @@ public class Inicial {
 
 		System.out.println("Hello world ver.1.2");
 		System.out.println("En otra rama");
-		System.out.println("Nueva rama");
+		System.out.println("Nueva rama fix");
 	}
 }
